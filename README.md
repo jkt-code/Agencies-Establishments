@@ -1,5 +1,5 @@
 # Agencies-Establishments
-## How I get data for analysing Rental or property management agencies all over Kenya
+## Scraping & data extraction for analysing Rental or property management agencies all over Kenya
 This is the link to view the Jupyter Notebook https://anaconda.cloud/share/notebooks/5609d302-2d66-43d7-ba08-45d62662669d/overview
 ## Kenyan Towns Extraction
 I used python's package Beautiful soup to scrape the site https://geokeo.com/database/town/ke/ to get the data from the tables in that site.
